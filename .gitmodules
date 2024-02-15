@@ -1,0 +1,6 @@
+[submodule "un-defined-backend"]
+	path = un-defined-backend
+	url = https://github.com/un-defined-gsc/un-defined-backend.git
+[submodule "un-defined-frontend"]
+	path = un-defined-frontend
+	url = https://github.com/un-defined-gsc/un-defined-frontend.git
