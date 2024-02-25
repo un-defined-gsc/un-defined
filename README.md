@@ -20,19 +20,25 @@ To embark on this journey with us, follow these steps to set up Un-Defined:
     
     bashCopy code
     
-    `git clone https://github.com/un-defined-gsc/un-defined`
+    ```bash
+    git clone https://github.com/un-defined-gsc/un-defined
+	```
     
 2. **Build Docker Image:** Navigate to the project directory and build the Docker image:
     
     bashCopy code
     
-    `docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" build`
+    ```bash
+    docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" build
+	```
     
 3. **Launch the Application:** Start the Docker containers to bring the application online:
     
     bashCopy code
     
-    `docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" up`
+    ```bash
+    docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" up
+	```
     
 4. **Access the Application:** Finally, access Un-Defined by visiting [http://localhost:80](http://localhost/) in your web browser.
     
