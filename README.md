@@ -21,23 +21,17 @@ To embark on this journey with us, follow these steps to set up Un-Defined:
 
 1. **Clone the Repository:** Begin by cloning our repository using the following command:
     
-    bashCopy code
-    
     ```bash
     git clone https://github.com/un-defined-gsc/un-defined
 	```
     
 2. **Build Docker Image:** Navigate to the project directory and build the Docker image:
     
-    bashCopy code
-    
     ```bash
     docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" build
 	```
     
 3. **Launch the Application:** Start the Docker containers to bring the application online:
-    
-    bashCopy code
     
     ```bash
     docker compose -f "deployment\docker\un-defined\dev.docker-compose.yaml" up
