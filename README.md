@@ -1,3 +1,6 @@
+
+![Team Logo](/logo-vertical.png)
+
 # Zonguldak Bülent Ecevit University Un-Defined Team
 
 Welcome to the forefront of change! We are the Un-Defined team from Zonguldak Bülent Ecevit University, driven by the relentless pursuit of a fairer world for women. In a society where equality remains a distant dream for many, we stand as advocates, catalysts, and architects of empowerment.
